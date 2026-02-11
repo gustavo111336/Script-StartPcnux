@@ -36,5 +36,5 @@ Copie e cole o comando abaixo no seu Termux:
 pkg install git
 git clone https://github.com/gustavo111336/Script-StartPcnux/
 cd Script-StartPcnux
-./startpcnux
+./startPcnux.sh
 ```
