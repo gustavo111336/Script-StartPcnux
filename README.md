@@ -33,4 +33,8 @@ O **Pcnux Manager** é um script avançado de gerenciamento para ambientes deskt
 Copie e cole o comando abaixo no seu Termux:
 
 ```bash
-pkg update && pkg install git -y && git clone [https://github.com/seu-usuario/pcnux-manager](https://github.com/seu-usuario/pcnux-manager) && cd pcnux-manager && chmod +x pcnux.sh && ./pcnux.sh
+pkg install git
+git clone https://github.com/gustavo111336/Script-StartPcnux/
+cd Script-StartPcnux
+./startpcnux
+```
