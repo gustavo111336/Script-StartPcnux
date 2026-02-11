@@ -11,8 +11,8 @@ O **Pcnux Manager** é um script avançado de gerenciamento para ambientes deskt
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adi1090x/termux-desktop/master/screenshots/main.png" width="400" alt="Menu do Script">
-  <img src="https://raw.githubusercontent.com/adi1090x/termux-desktop/master/screenshots/xfce.png" width="400" alt="Desktop Rodando">
+  <img src="https://raw.githubusercontent.com/adi1090x/termux-desktop/previews/app_1.png" width="400" alt="Menu do Script">
+  <img src="https://raw.githubusercontent.com/adi1090x/termux-desktop/previews/app_2.png" width="400" alt="Desktop Rodando">
 </p>
 <p align="center"><i>Interface limpa, menu interativo e suporte total ao XFCE4.</i></p>
 
